@@ -1,15 +1,15 @@
 # trabalhoBackend
 
-    Crie um repositorio 
+    Criando um repositorio 
 
-    Crie um projeto em Node.js que responde a uma requisição com um JSON.
+    Criando um projeto em Node.js que responde a uma requisição com um JSON.
 
-    Criar package.json
+    Criando package.json
 
-    Usar postman 
+    Usando postman 
 
-    Usar Express 
+    Usando Express 
 
-    Extra: Use o Nodemon, um utilitário que monitora as mudanças nos arquivos do seu projeto e reinicia automaticamente o servidor Node.
+    Extra: Nodemon, um utilitário que monitora as mudanças nos arquivos do seu projeto e reinicia automaticamente o servidor Node.
 
 
