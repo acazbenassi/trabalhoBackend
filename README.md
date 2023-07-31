@@ -10,6 +10,6 @@
 
     Usando Express 
 
-    Extra: Nodemon, um utilitário que monitora as mudanças nos arquivos do seu projeto e reinicia automaticamente o servidor Node.
+
 
 
